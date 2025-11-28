@@ -1,29 +1,21 @@
-👋 Hi, I'm Anastasia — an Applied ML & AI specialist with a cross-disciplinary background 
-in machine learning, business analytics and strategic product work.
+# 👋 Hi, I'm Anastasia — Applied ML & AI Consultant
 
-I combine 3+ years of analytical leadership experience at Amazon EU and AWS with advanced academic training:
-• Master's degree in Big Data & Artificial Intelligence (Spain)
-• Postgraduate Degree in Applied Data Science & AI (University of Cambridge)
-• Bachelor's in Business Administration & International Finance
+I help organisations turn complex data into **reliable, strategic and production-ready AI systems**.
 
-My work is centred around applied machine learning and modern AI systems:
-• NLP & LLMs (FinBERT, BERTopic, embeddings, retrieval-augmented generation)
-• Decision intelligence & AI-powered analytics
-• Geospatial ML and urban intelligence
-• Forecasting, anomaly detection and classification pipelines
-• AI agents and RAG-based decision support systems
-• Clear stakeholder communication and data storytelling
+**Background:**  
+Amazon EU & AWS (analytics leadership) · MSc Big Data & AI · Cambridge Postgraduate in Applied Data Science & AI · BBA Finance & International Business.
 
-Selected project experience:
-• Cambridge × Bank of England × HSBC × JP Morgan Chase  — financial NLP for supervisory risk insight  
-• AGIA — enterprise AI platform for commodity intelligence & RAG pipelines  
-• Barcelona Accessibility ML — geospatial model for urban mobility equity  
-• Industrial anomaly detection using multivariate sensor data  
-• UK Books Retail Domain Leader forecasting services (SARIMA, XGBoost, LSTM)  
-• Customer insight NLP (NDA, major UK fitness chain)
+**Core expertise:**  
+NLP & LLMs (FinBERT, RAG, embeddings, NLP) · Decision intelligence · Forecasting & anomaly detection · AI agents for operational decision support.
 
-I specialise in bridging applied ML and AI with product thinking — designing systems that are 
-accurate, interpretable and aligned with real organisational needs.
+**Selected work:**  
+• Cambridge × Bank of England × HSBC × JPMorgan Chase — financial NLP for supervisory risk insight  
+• AGIA — enterprise AI for commodity intelligence and climate-aware forecasting  
+• Industrial sensor intelligence — multivariate anomaly detection  
+• UK retail & customer insight systems (NDA)
+• Barcelona Urban ML — accessibility prediction for public-sector planning  
 
-🌍 Open to global remote opportunities (US/EU/UK) — applied ML, NLP/LLMs, AI product, 
-and high-impact contract engagements.
+**Focus:**  
+Designing **interpretable, high-impact ML solutions** that blend strong analytics, product thinking and clear stakeholder communication.
+
+🌍 Open to global remote opportunities (US/EU/UK) — **applied ML, LLMs, AI strategy & high-impact consulting.**
